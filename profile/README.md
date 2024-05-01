@@ -1,4 +1,4 @@
-# Bienvenido a Mirao Tech 👋
+# Bienvenido a Miralo Tech 👋
 
 ¡Hola! Somos Miralo, una startup con el objetivo de mejorar la experiencia gastronomica inicialmente en Colombia y con visión a conquistar todo el mercado latinoamericano. 
 
